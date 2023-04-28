@@ -3,7 +3,7 @@
 // @namespace   https://tokeshi.com/
 // @description Changes the background color of the web page and add line
 // @include     https://tokeshi.com/*
-// @version     304.28.2
+// @version     304.28.3
 // @grant       GM_notification
 // ==/UserScript==
 
