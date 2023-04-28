@@ -3,7 +3,7 @@
 // @namespace   https://tokeshi.com/
 // @description Changes the background color of the web page and add line
 // @include     https://tokeshi.com/*
-// @version     2023.04.28.1616
+// @version     2023.04.28.1635
 // @grant       GM_notification
 // ==/UserScript==
 
@@ -19,7 +19,7 @@
     }
 
     // Change background color
-    document.body.style.backgroundColor = 'yellow';
+    document.body.style.backgroundColor = 'green';
     
     // Add text line
     var div = document.createElement('div');
