@@ -23,6 +23,6 @@
     
     // Add text line
     var div = document.createElement('div');
-    div.innerHTML = 'This is a text line added by the userscript.';
+    div.innerHTML = 'ratokeshi useless userscript has been updated.';
     document.body.insertBefore(div, document.body.firstChild);
 })();
