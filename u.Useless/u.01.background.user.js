@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Change Background Color
+// @name        ratokeshi useless Change Background Color
 // @namespace   https://example.com/
 // @description Changes the background color of the web page
 // @include     https://tokeshi.com/*
