@@ -3,7 +3,7 @@
 // @namespace   https://tokeshi.com/
 // @description Changes the background color of the web page and add line
 // @include     https://tokeshi.com/*
-// @version     2023.04.28.1635
+// @version     2023.04.28.1636
 // @grant       GM_notification
 // ==/UserScript==
 
@@ -23,6 +23,6 @@
     
     // Add text line
     var div = document.createElement('div');
-    div.innerHTML = 'ratokeshi useless userscript has been updated.';
+    div.innerHTML = 'This is a text line added by the userscript.';
     document.body.insertBefore(div, document.body.firstChild);
 })();
