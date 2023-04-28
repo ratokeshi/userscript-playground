@@ -10,4 +10,10 @@
 (function() {
     'use strict';
     document.body.style.backgroundColor = 'yellow';
+
+
+    // Add text line
+    var div = document.createElement('div');
+    div.innerHTML = 'This is a text line added by the userscript.';
+    document.body.insertBefore(div, document.body.firstChild);
 })();
