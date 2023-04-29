@@ -25,7 +25,7 @@
     
     // Add text line
     var div = document.createElement('div');
-    div.innerHTML = 'ratokeshi useless userscript was here added by the userscript.';
+    div.innerHTML = 'ratokeshi useless with update userscript was here added by the userscript.';
     document.body.insertBefore(div, document.body.firstChild);
 
     // Get the current date and time
