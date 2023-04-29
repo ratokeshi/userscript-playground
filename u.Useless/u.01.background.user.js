@@ -4,7 +4,8 @@
 // @description Changes the background color of the web page and add line
 // @include     https://*.tokeshi.com/*
 // @downloadURL https://github.com/ratokeshi/userscript-playground/raw/main/u.Useless/u.01.background.user.js
-// @version     304.28.8
+// @updateURL   https://github.com/ratokeshi/userscript-playground/raw/main/u.Useless/u.01.background.user.js
+// @version     304.28.9
 // @grant       GM_notification
 // ==/UserScript==
 
