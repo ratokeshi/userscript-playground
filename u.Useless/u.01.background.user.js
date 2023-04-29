@@ -5,7 +5,7 @@
 // @include     https://*.tokeshi.com/*
 // @downloadURL https://github.com/ratokeshi/userscript-playground/raw/main/u.Useless/u.01.background.user.js
 // @updateURL   https://github.com/ratokeshi/userscript-playground/raw/main/u.Useless/u.01.background.user.js
-// @version     304.28.9
+// @version     304.28.91
 // @grant       GM_notification
 // ==/UserScript==
 
@@ -21,7 +21,7 @@
     }
 
     // Change background color
-    document.body.style.backgroundColor = 'green';
+    document.body.style.backgroundColor = 'red';
     
     // Add text line
     var div = document.createElement('div');
