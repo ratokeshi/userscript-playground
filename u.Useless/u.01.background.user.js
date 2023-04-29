@@ -32,14 +32,14 @@
     var now = new Date();
     var dateTime = now.toLocaleString();
 
-    // Create a div element to hold the date and time
-    var div = document.createElement('div');
-    div.style.backgroundColor = '#f2f2f2';
-    div.style.padding = '10px';
-    div.style.fontWeight = 'bold';
-    div.innerHTML = 'Current date and time: ' + dateTime;
+    //// Create a div element to hold the date and time
+    //var div = document.createElement('div');
+    //div.style.backgroundColor = '#f2f2f2';
+    //div.style.padding = '10px';
+    //div.style.fontWeight = 'bold';
+    //div.innerHTML = 'Current date and time: ' + dateTime;
 
-    // Add the div element to the top of the page
-    var body = document.getElementsByTagName('body')[0];
-    body.insertBefore(div, body.firstChild);
+    //// Add the div element to the top of the page
+    //var body = document.getElementsByTagName('body')[0];
+    //body.insertBefore(div, body.firstChild);
 })();
