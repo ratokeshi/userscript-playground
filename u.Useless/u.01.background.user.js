@@ -2,8 +2,8 @@
 // @name        ratokeshi useless userscript 4 tokeshi
 // @namespace   https://tokeshi.com/
 // @description Changes the background color of the web page and add line
-// @include     https://tokeshi.com/*
-// @version     304.28.6
+// @include     https://*.tokeshi.com/*
+// @version     304.28.7
 // @grant       GM_notification
 // ==/UserScript==
 
@@ -23,6 +23,6 @@
     
     // Add text line
     var div = document.createElement('div');
-    div.innerHTML = 'ratokeshi usless userscript was here added by the userscript.';
+    div.innerHTML = 'ratokeshi useless userscript was here added by the userscript.';
     document.body.insertBefore(div, document.body.firstChild);
 })();
