@@ -2,7 +2,7 @@
 // @name        ratokeshi useless noupdate
 // @namespace   https://tokeshi.com/
 // @description Changes the background color of the web page and add line
-// @include     https://*.tokeshi.com/*, https://tokeshi.com/*
+// @include     https://tokeshi.com/*
 // @downloadURL https://github.com/ratokeshi/userscript-playground/raw/main/u.Useless/u.01.background.user.js
 // @updateURL   https://github.com/ratokeshi/userscript-playground/raw/main/u.Useless/u.01.background.user.js
 // @version     304.28.14
